@@ -8,7 +8,7 @@ Este repositorio forma parte de mi **portafolio profesional**, donde documento m
 
 ## 🎯 Perfil profesional
 
-* 🎓 **Diseñadora Gráfica** 
+* 🎓 **Diseñadora Gráfica  - UXUI** 
 * 📊 **Soporte TI y Analista de datos en formación**
 * 🌍 **Orientación a trabajo remoto y entornos colaborativos**
 
@@ -34,9 +34,9 @@ Proyectos desarrollados con **MIT App Inventor 2** para practicar programación 
 **Lenguajes y entornos**
 
 * Excel (nivel intermedio)
-* SQL (PostgreSQL – nivel básico)
+* SQL (SQLServer – nivel básico)
 * Python (nivel básico)
-* R (nivel básico)
+* PowerBI (nivel básico)
 * MIT App Inventor 2 (nivel básico)
 
 ---
