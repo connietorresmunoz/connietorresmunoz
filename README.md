@@ -21,8 +21,7 @@ Proyectos desarrollados con **MIT App Inventor 2** para practicar programación 
 
 - [Chatbot]()
 - [Track My Mood]()
-- 
--[App Prediction climate]() 
+- [App Prediction climate]() 
 - [Prediction PAES CHILE]() 
 ---
 
@@ -46,4 +45,4 @@ Proyectos desarrollados con **MIT App Inventor 2** para practicar programación 
 
 ---
 
-⭐ Gracias por visitar mi perfil.
+⭐ **Gracias por visitar mi perfil**.
