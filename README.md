@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Connie Torres
 
-<!--
-**connietorresmunoz/connietorresmunoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Diseñadora Gráfica de profesión, Soporte TI en Formación, con enfoque en **Análisis de Datos**.
 
-Here are some ideas to get you started:
+Este repositorio forma parte de mi **portafolio profesional**, donde documento mis proyectos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Perfil profesional
+
+* 🎓 **Ingeniería Industrial** 
+* 📊 Soporte TI y Analista de datos en formación
+* 🌍 Orientación a trabajo remoto y entornos colaborativos
+
+---
+
+## 📌 Mis proyectos 
+
+### 📱 Apps Móviles
+Proyectos desarrollados con **MIT App Inventor 2** para practicar programación visual y conceptos de IA y data science:
+
+- [Chatbot]()
+- [Track My Mood]() 
+ -[App Prediction climate]() 
+- [Prediction PAES CHILE]() 
+---
+
+## 🛠️ Herramientas y tecnologías
+
+**Lenguajes y entornos**
+
+* Excel (nivel intermedio)
+* SQL (PostgreSQL – nivel básico)
+* Python (nivel básico)
+* R (nivel básico)
+* MIT App Inventor 2 (nivel básico)
+
+---
+
+
+## 📫 Contacto
+
+* GitHub: [https://github.com/connietorresmunoz](https://github.com/connietorresmunoz)
+* LinkedIn: [https://www.linkedin.com/in/lconnietorresmunoz/](https://www.linkedin.com/in/connietorresmunoz/)
+
+---
+
+⭐ Gracias por visitar mi perfil.
