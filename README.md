@@ -8,9 +8,9 @@ Este repositorio forma parte de mi **portafolio profesional**, donde documento m
 
 ## 🎯 Perfil profesional
 
-* 🎓 **Ingeniería Industrial** 
-* 📊 Soporte TI y Analista de datos en formación
-* 🌍 Orientación a trabajo remoto y entornos colaborativos
+* 🎓 **Diseñadora Gráfica** 
+* 📊 **Soporte TI y Analista de datos en formación**
+* 🌍 **Orientación a trabajo remoto y entornos colaborativos**
 
 ---
 
@@ -20,8 +20,9 @@ Este repositorio forma parte de mi **portafolio profesional**, donde documento m
 Proyectos desarrollados con **MIT App Inventor 2** para practicar programación visual y conceptos de IA y data science:
 
 - [Chatbot]()
-- [Track My Mood]() 
- -[App Prediction climate]() 
+- [Track My Mood]()
+- 
+-[App Prediction climate]() 
 - [Prediction PAES CHILE]() 
 ---
 
