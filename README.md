@@ -15,14 +15,18 @@ Este repositorio forma parte de mi **portafolio profesional**, donde documento m
 ---
 
 ## 📌 Mis proyectos 
+Proyectos de Programación en entornos educativos:
+
+- [Programación 1](https://github.com/connietorresmunoz/Programacion-1)
 
 ### 📱 Apps Móviles
 Proyectos desarrollados con **MIT App Inventor 2** para practicar programación visual y conceptos de IA y data science:
 
-- [Chatbot]()
-- [Track My Mood]()
-- [App Prediction climate]() 
-- [Prediction PAES CHILE]() 
+- [Chatbot](https://github.com/connietorresmunoz/intro-analisis-datos-chatbot)
+- [Track My Mood](https://github.com/connietorresmunoz/intro-analisis-datos-mood-tracker)
+- [Club de Lectura](https://github.com/connietorresmunoz/intro-analisis-datos-club-lectura) 
+- [App Prediction PAES CHILE](https://github.com/connietorresmunoz/Intro-analisis-datos-Prediction-PAES-Chile)
+- [App Prediction Climate Change](https://github.com/connietorresmunoz/Intro-analisis-datos-climate-change-ice-melt-prediction-app) 
 ---
 
 ## 🛠️ Herramientas y tecnologías
