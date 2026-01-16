@@ -39,6 +39,13 @@ Proyectos desarrollados con **MIT App Inventor 2** para practicar programación 
 * PowerBI (nivel básico)
 * MIT App Inventor 2 (nivel básico)
 
+<!-- Begin: HubSpot Academy - Certificación del software de Service Hub Badge -->
+<div class='academy-badge'>
+  <a href='https://app.hubspot.com/academy/achievements/9735t1t3/es/1/connie-tm/certificacion-del-software-de-service-hub' title='Certificación del software de Service Hub'>
+    <img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/4b7a472b09a744979d3455de690c17e3.png' width="120" height="120" />
+  </a>
+</div>
+<!-- End: HubSpot Academy - Certificación del software de Service Hub Badge -->
 ---
 
 
