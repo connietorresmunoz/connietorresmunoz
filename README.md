@@ -52,7 +52,7 @@ Proyectos desarrollados con **MIT App Inventor 2** para practicar programación 
 ## 📫 Contacto
 
 * GitHub: [https://github.com/connietorresmunoz](https://github.com/connietorresmunoz)
-* LinkedIn: [https://www.linkedin.com/in/lconnietorresmunoz/](https://www.linkedin.com/in/connietorresmunoz/)
+* LinkedIn: [https://www.linkedin.com/in/connie-torres-munoz/](https://www.linkedin.com/in/connie-torres-munoz/)
 
 ---
 
