@@ -47,6 +47,13 @@ Proyectos desarrollados con **MIT App Inventor 2** para practicar programación 
 </div>
 <!-- End: HubSpot Academy - Certificación del software de Service Hub Badge -->
 ---
+<!-- Begin: HubSpot Academy - Software de marketing de HubSpot Badge -->
+<div class='academy-badge'>
+<a href='https://app.hubspot.com/academy/achievements/p3fll01k/es/1/connie-torres-munoz/software-de-marketing-de-hubspot' title='Software de marketing de HubSpot'>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/d584309aa826485d86d38a462bd455a1.png' width="120" height="120" />
+</a>
+</div>
+<!-- End: HubSpot Academy - Software de marketing de HubSpot Badge -->
 
 
 ## 📫 Contacto
