@@ -57,6 +57,8 @@ Proyectos desarrollados con **MIT App Inventor 2** para practicar programación 
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ed673e3e-5890-497b-85e3-35274b24124d" data-share-badge-host="https://www.credly.com"></div><img src="https://images.credly.com/size/220x220/images/7658c4f1-0570-42c7-83b0-04cac8b0aca2/image.png" width="120" height="120"</>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c0478ef3-370a-44b9-b173-5b0b6dfe19a1" data-share-badge-host="https://www.credly.com"></div><img src="https://images.credly.com/size/680x680/images/7fd5a03e-823f-4449-af43-59afe528f4ee/image.png" width="120" height="120"</>
+
 ## 📫 Contacto
 
 * GitHub: [https://github.com/connietorresmunoz](https://github.com/connietorresmunoz)
